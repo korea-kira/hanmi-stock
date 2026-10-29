@@ -1,11 +1,11 @@
 {
-  "collected_at_utc": "2026-10-29T00:36:16.379393+00:00",
+  "collected_at_utc": "2026-10-29T15:43:59.187117+00:00",
   "market_data_provider": "Yahoo Finance via yfinance (unofficial, may be delayed)",
   "stocks": [
     {
       "symbol": "005930.KS",
       "name": "삼성전자",
-      "last_price": 243750.0,
+      "last_price": 242000.0,
       "price_date": "2026-10-29",
       "signal": "관망",
       "score": 0,
@@ -18,16 +18,16 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 729,
+      "data_points": 728,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
       "symbol": "000660.KS",
       "name": "SK하이닉스",
-      "last_price": 1538000.0,
+      "last_price": 1487000.0,
       "price_date": "2026-10-29",
-      "signal": "관망",
-      "score": 0,
+      "signal": "하락 위험",
+      "score": -2,
       "validation": {
         "status": "검증 가능",
         "samples": 112,
@@ -37,16 +37,16 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 729,
+      "data_points": 728,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
       "symbol": "035420.KS",
       "name": "NAVER",
-      "last_price": 176900.0,
+      "last_price": 178000.0,
       "price_date": "2026-10-29",
       "signal": "하락 위험",
-      "score": -2,
+      "score": -4,
       "validation": {
         "status": "검증 가능",
         "samples": 113,
@@ -56,13 +56,13 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 729,
+      "data_points": 728,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
       "symbol": "^KS11",
       "name": "코스피",
-      "last_price": 6038.21,
+      "last_price": 6012.4399,
       "price_date": "2026-10-29",
       "signal": "하락 위험",
       "score": -2,
@@ -81,7 +81,7 @@
     {
       "symbol": "^KQ11",
       "name": "코스닥",
-      "last_price": 762.62,
+      "last_price": 771.28,
       "price_date": "2026-10-29",
       "signal": "하락 위험",
       "score": -2,
@@ -100,8 +100,8 @@
     {
       "symbol": "AAPL",
       "name": "애플",
-      "last_price": 347.1,
-      "price_date": "2026-10-28",
+      "last_price": 349.365,
+      "price_date": "2026-10-29",
       "signal": "상승 관심",
       "score": 4,
       "validation": {
@@ -113,14 +113,14 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 751,
+      "data_points": 753,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
       "symbol": "MSFT",
       "name": "마이크로소프트",
-      "last_price": 531.33,
-      "price_date": "2026-10-28",
+      "last_price": 523.07,
+      "price_date": "2026-10-29",
       "signal": "상승 관심",
       "score": 2,
       "validation": {
@@ -132,14 +132,14 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 751,
+      "data_points": 753,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
       "symbol": "NVDA",
       "name": "엔비디아",
-      "last_price": 217.94,
-      "price_date": "2026-10-28",
+      "last_price": 214.08,
+      "price_date": "2026-10-29",
       "signal": "관망",
       "score": 0,
       "validation": {
@@ -151,14 +151,14 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 751,
+      "data_points": 753,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
       "symbol": "SPY",
       "name": "S&P500 ETF",
-      "last_price": 769.66,
-      "price_date": "2026-10-28",
+      "last_price": 769.945,
+      "price_date": "2026-10-29",
       "signal": "상승 관심",
       "score": 2,
       "validation": {
@@ -170,14 +170,14 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 751,
+      "data_points": 753,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
       "symbol": "QQQ",
       "name": "나스닥100 ETF",
-      "last_price": 721.25,
-      "price_date": "2026-10-28",
+      "last_price": 717.0388,
+      "price_date": "2026-10-29",
       "signal": "관망",
       "score": 0,
       "validation": {
@@ -189,14 +189,14 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 751,
+      "data_points": 753,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
       "symbol": "^GSPC",
       "name": "S&P500",
-      "last_price": 7743.98,
-      "price_date": "2026-10-28",
+      "last_price": 7724.3501,
+      "price_date": "2026-10-29",
       "signal": "상승 관심",
       "score": 2,
       "validation": {
@@ -208,16 +208,16 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 752,
+      "data_points": 753,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
       "symbol": "^IXIC",
       "name": "나스닥",
-      "last_price": 26549.8516,
-      "price_date": "2026-10-28",
-      "signal": "하락 위험",
-      "score": -2,
+      "last_price": 26257.9824,
+      "price_date": "2026-10-29",
+      "signal": "관망",
+      "score": 0,
       "validation": {
         "status": "검증 가능",
         "samples": 122,
@@ -227,13 +227,13 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 752,
+      "data_points": 753,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
       "symbol": "KRW=X",
       "name": "원/달러",
-      "last_price": 1336.1801,
+      "last_price": 1338.02,
       "price_date": "2026-10-29",
       "signal": "관망",
       "score": 0,
@@ -252,10 +252,10 @@
     {
       "symbol": "^TNX",
       "name": "미국 10년물 금리 지수",
-      "last_price": 5.045,
-      "price_date": "2026-10-28",
-      "signal": "하락 위험",
-      "score": -2,
+      "last_price": 4.978,
+      "price_date": "2026-10-29",
+      "signal": "관망",
+      "score": 0,
       "validation": {
         "status": "검증 가능",
         "samples": 114,
@@ -265,7 +265,7 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 752,
+      "data_points": 753,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     }
   ],
