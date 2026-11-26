@@ -1,5 +1,5 @@
 {
-  "collected_at_utc": "2026-11-26T07:06:01.261250+00:00",
+  "collected_at_utc": "2026-11-26T23:30:38.280597+00:00",
   "market_data_provider": "Yahoo Finance via yfinance (unofficial, may be delayed)",
   "stocks": [
     {
@@ -24,7 +24,7 @@
     {
       "symbol": "000660.KS",
       "name": "SK하이닉스",
-      "last_price": 1053000.0,
+      "last_price": 1033000.0,
       "price_date": "2026-11-26",
       "signal": "하락 위험",
       "score": -4,
@@ -62,8 +62,8 @@
     {
       "symbol": "^KS11",
       "name": "코스피",
-      "last_price": 4711.21,
-      "price_date": "2026-11-26",
+      "last_price": 4697.5098,
+      "price_date": "2026-11-25",
       "signal": "하락 위험",
       "score": -4,
       "validation": {
@@ -75,14 +75,14 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 730,
+      "data_points": 729,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
       "symbol": "^KQ11",
       "name": "코스닥",
-      "last_price": 655.71,
-      "price_date": "2026-11-26",
+      "last_price": 650.64,
+      "price_date": "2026-11-25",
       "signal": "하락 위험",
       "score": -4,
       "validation": {
@@ -94,7 +94,7 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 730,
+      "data_points": 729,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
@@ -233,7 +233,7 @@
     {
       "symbol": "KRW=X",
       "name": "원/달러",
-      "last_price": 1342.79,
+      "last_price": 1343.5601,
       "price_date": "2026-11-26",
       "signal": "상승 관심",
       "score": 2,
