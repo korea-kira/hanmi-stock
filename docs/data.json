@@ -1,12 +1,12 @@
 {
-  "collected_at_utc": "2026-11-25T23:28:38.692518+00:00",
+  "collected_at_utc": "2026-11-26T07:06:01.261250+00:00",
   "market_data_provider": "Yahoo Finance via yfinance (unofficial, may be delayed)",
   "stocks": [
     {
       "symbol": "005930.KS",
       "name": "삼성전자",
-      "last_price": 170700.0,
-      "price_date": "2026-11-25",
+      "last_price": 171300.0,
+      "price_date": "2026-11-26",
       "signal": "하락 위험",
       "score": -4,
       "validation": {
@@ -18,14 +18,14 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 728,
+      "data_points": 729,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
       "symbol": "000660.KS",
       "name": "SK하이닉스",
-      "last_price": 1030000.0,
-      "price_date": "2026-11-25",
+      "last_price": 1053000.0,
+      "price_date": "2026-11-26",
       "signal": "하락 위험",
       "score": -4,
       "validation": {
@@ -37,14 +37,14 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 728,
+      "data_points": 729,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
       "symbol": "035420.KS",
       "name": "NAVER",
-      "last_price": 159000.0,
-      "price_date": "2026-11-25",
+      "last_price": 160200.0,
+      "price_date": "2026-11-26",
       "signal": "하락 위험",
       "score": -4,
       "validation": {
@@ -56,16 +56,16 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 728,
+      "data_points": 729,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
       "symbol": "^KS11",
       "name": "코스피",
-      "last_price": 5006.0298,
-      "price_date": "2026-11-24",
+      "last_price": 4711.21,
+      "price_date": "2026-11-26",
       "signal": "하락 위험",
-      "score": -2,
+      "score": -4,
       "validation": {
         "status": "검증 가능",
         "samples": 117,
@@ -75,16 +75,16 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 728,
+      "data_points": 730,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
       "symbol": "^KQ11",
       "name": "코스닥",
-      "last_price": 665.88,
-      "price_date": "2026-11-24",
+      "last_price": 655.71,
+      "price_date": "2026-11-26",
       "signal": "하락 위험",
-      "score": -2,
+      "score": -4,
       "validation": {
         "status": "검증 가능",
         "samples": 109,
@@ -94,7 +94,7 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 728,
+      "data_points": 730,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
@@ -214,7 +214,7 @@
     {
       "symbol": "^IXIC",
       "name": "나스닥",
-      "last_price": 23585.8027,
+      "last_price": 23585.8008,
       "price_date": "2026-11-25",
       "signal": "하락 위험",
       "score": -4,
@@ -233,8 +233,8 @@
     {
       "symbol": "KRW=X",
       "name": "원/달러",
-      "last_price": 1343.99,
-      "price_date": "2026-11-25",
+      "last_price": 1342.79,
+      "price_date": "2026-11-26",
       "signal": "상승 관심",
       "score": 2,
       "validation": {
@@ -246,7 +246,7 @@
         "method": "60일 이동평균 및 5/20일 추세; 5거래일 비중첩 과거검증",
         "caution": "생존편향·거래비용·슬리피지 미반영. 과거 성과는 미래를 보장하지 않음"
       },
-      "data_points": 778,
+      "data_points": 779,
       "price_source": "Yahoo Finance (비공식·지연 가능)"
     },
     {
